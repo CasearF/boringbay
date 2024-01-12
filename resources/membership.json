@@ -242,5 +242,12 @@
 		"name": "无聊工作室",
 		"description": "无聊的人做无聊的事",
 		"github_username": "xiongbao"
+	},
+	"55": {
+		"domain": "casear.cn",
+		"icon": "https://casear.cn/static/img/f26eee3d0f6a05778ad6469e888a9e8b.touxiang.webp",
+		"name": "Casear的技术栈",
+		"description": "交流技术，分享经验",
+		"github_username": "CasearF"
 	}
 }
